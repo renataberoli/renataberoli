@@ -1,6 +1,7 @@
-# Hello, I'm Renata Oliveira (She/Her)
+## Hello, I'm Renata Beroli (She/Her)
 
-I'm an IT professional with over 5 years of experience with startups. Most of my work experience is in UX/UI and QA 
-Tester, but I'm constantly dipping my toes into new waters. I have already worked in positions ranging from Support, QA 
-Tester, UX/UI, and Scrum Master in my career. As a result, I have worked with most software development 
-lifecycles and feel comfortable designing to achieve efficiency and good experiences.
+My experience combines **UX/UI design and QA**. I enjoy understanding how people use software, designing clear interfaces, and testing where things might break.
+
+I like learning by building. Across work and personal projects, I’ve tried different tools and frameworks to see what I can learn along the way. This is where those experiments turn into working software.
+
+📍 Alicante, Spain
