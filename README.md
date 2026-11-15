@@ -1,5 +1,1 @@
-## Hello, I'm Renata Beroli (She/Her)
-
-My experience combines **UX/UI design and QA**. I enjoy understanding how people use software, designing clear interfaces, and testing where things might break.
-
-I like learning by building. Across work and personal projects, I’ve tried different tools and frameworks to see what I can learn along the way. This is where those experiments turn into working software.
+<img width="2172" height="724" alt="Renata Beroli_ UX_UI design and QA" src="https://github.com/user-attachments/assets/30cb93ac-06d2-4994-96c9-687f1ad0e3ca" />
